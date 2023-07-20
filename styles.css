@@ -455,11 +455,22 @@ line-height: normal;
 
 
 .pepe{
-    display: grid;
-    grid-template-columns: repeat(5, 1fr);
+display: grid;
+grid-template-columns: repeat(5, 1fr);
+color: #0B0223;
+font-family: Work Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+margin: 50px;
 
 }
 
 .last_sec{
     text-align: center;
+}
+
+.all_well{
+    display: flex;
 }
